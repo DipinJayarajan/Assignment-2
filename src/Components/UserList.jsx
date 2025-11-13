@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { Spin } from "antd";
 import UserCard from "./UserCard";
 import EditUserModal from "./EditUserModal";
 import Loader from "./Loader/Loader"; 
